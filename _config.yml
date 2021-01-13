@@ -17,7 +17,6 @@ navbar-links:
   Blog: "blog"
   Project: "project"
   GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -36,10 +35,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+# email: "shsonkorea@etri.re.kr"
+# facebook: seokho.son.korea
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
